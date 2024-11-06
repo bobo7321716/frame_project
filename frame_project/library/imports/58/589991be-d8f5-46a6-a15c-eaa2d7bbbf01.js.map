@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\homePage\\script\\config\\Config.ts"],"names":[],"mappings":";;;;;;;AAAA,6CAA+C;AAElC,QAAA,MAAM,GAAG;IAElB,WAAW,EAAE,4BAAc;CAE9B,CAAA","file":"","sourceRoot":"/","sourcesContent":["import { LevelConfigMgr } from \"./LevelConfig\";\r\n\r\nexport const Config = {\r\n\r\n    LevelConfig: LevelConfigMgr,\r\n\r\n}"]}

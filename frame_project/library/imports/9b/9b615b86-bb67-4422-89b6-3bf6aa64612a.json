@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "夜市街景1584",
+    "texture": "d45ae621-eb98-4751-b4c2-900fb02e5cf2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1584,
+      720
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1584,
+      720
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
